@@ -3,6 +3,7 @@ body {
 	font-family: "Open Sans", serif;
 	background: linear-gradient(135deg,#1777a0,#56a37b);
 	color: #ffffff;
+	height: 100vh;
 }
 
 * {
